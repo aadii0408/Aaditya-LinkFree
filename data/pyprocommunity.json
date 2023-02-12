@@ -1,0 +1,32 @@
+{
+  "name": "PY'PRO Community",
+  "displayStatsPublic": true,
+  "type": "community",
+  "bio": "Together We Learn, Together We Grow || We do [PRO] things at PY'PRO!",
+  
+  "tags": ["Open Source", "Workshops", "Events", "Hackathons", "Mentorship", "Learning" ],
+  
+  "avatar": "https://github.com/PY-PRO-Community.png",
+  "links": [
+    {
+      "name": "Follow us on Twitter",
+      "url": "https://twitter.com/pyprocommunity?s=21&t=WILl6bGoKfnTTgB7IuDo-w",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "Follow us on Github",
+      "url": "https://www.linkedin.com/company/79369349",
+      "icon": "FaGithub"
+    },
+    {
+      "name": "Follow us on Linkedin",
+      "url": "https://www.linkedin.com/in/aadityachampaneri0408/",
+      "icon": "FaLinkedin"
+    },
+    {
+      "name": "Follow us on Instagram",
+      "url": "https://instagram.com/pyprocommunity?igshid=YmMyMTA2M2Y=",
+      "icon": "FaInstagram"
+    }
+  ]
+}
